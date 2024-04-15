@@ -1,2 +1,8 @@
-Para a Versão 1 do sistemas será implementado três operações: depositar, sacar, extrato.
-Considera-se na V1 apenas um usua´rio, dessa forma não precisa se preocupar com indetifcação de usuário.
+1 - Para a Versão 1 do sistemas será implementado três operações: depositar, sacar, extrato.
+2 - Considera-se na V1 apenas um usua´rio, dessa forma não precisa se preocupar com identificação de agência e conta do usuário.
+3 - Todos os depositos são armazenados em uma variável e exibido no extrato.
+4 - Deve ser permitido 3 saques diários com limnite máximo de 500,00 por saque, desde que haja saldo em conta maior ou igual ao valor do saque. Caso contrário deve exibir uma mensagem de saldo insuficiente.
+5 - Os saques devem ser armazenados em uma variável e exibido no extrato. 
+6 - O extrato deve exibir todos os saques e depositos e o saldo final no formato R$ xxxx,xx
+
+

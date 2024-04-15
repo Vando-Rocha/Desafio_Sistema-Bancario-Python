@@ -1,0 +1,2 @@
+Para a Versão 1 do sistemas será implementado três operações: depositar, sacar, extrato.
+Considera-se na V1 apenas um usua´rio, dessa forma não precisa se preocupar com indetifcação de usuário.
